@@ -7,7 +7,7 @@ Maahir Shah
 
 This project simulates a cybersecurity Governance, Risk & Compliance assessment for a fictional commercial bank - Stirling Bank.
 
-The aim was to identify, analyse and document key cybersecurity risks across the bank. This included those in the bank's cloud infrastructure, legacy systems, internal Active Directory network and AI systems.
+The aim was to identify, analyse, document and present key cybersecurity risks across the bank. This included risks in the bank's cloud infrastructure, legacy systems, internal Active Directory network and AI systems.
 
 The project aligns risks with the following industry GRC frameworks:
 
@@ -19,6 +19,10 @@ The project aligns risks with the following industry GRC frameworks:
 ## Objectives
 
 This project aimed to identify realistic cybersecurity risks in a financial services environment. It aims to map risks to recognised GRC frameworks and assess the impact of each risk on the bank. Practical mitigation strategies were proposed for each risk to demonstrate understanding of GRC frameworks and how companies can adhere to them.
+
+Risk audit data was collected and compiled into an interactive, executive dashboard in Excel. The dashboard presents the data collected, giving a detailed overview of risk and provides interactivity to allow users to filter data and make comparisons.
+
+Design considerations, such as visual appeal, colour scheme and fonts, were taken into account during design to ensure accessibility, readability and simplicity.
 
 ## Scenario
 
@@ -54,4 +58,4 @@ These findings were identified through structured analysis of the bank's archite
 ## Deliverables
 
 - Professional GRC Risk Assessment Report (PDF)
-- Risk Audit Spreadsheet (Excel)
+- Risk Audit Data & Executive Dashboard (Excel spreadsheet)
